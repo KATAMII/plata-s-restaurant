@@ -118,7 +118,7 @@ header{
     flex-direction: column;
     gap: 0rem;
     padding: 0rem 0rem;
-    height: 8rem;
+    height: 10rem;
   }
 }
 @media screen and (max-width: 48em) {
@@ -285,9 +285,10 @@ header{
   color: #888;
   font-size: 1.5rem;
 }
-.footer {
+footer {
   background-color: #999;
-  padding: 5rem;
+  padding: 0rem;
+  margin-top: 5rem;
 }
 .footer-text {
   text-align: center;
